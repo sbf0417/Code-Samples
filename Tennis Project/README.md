@@ -14,8 +14,8 @@ Unsupervised Learning:
 
 Supervised Learning:
 1) Fit a variety of models to predict player style based off of match statistics and physical characteristics (separately)
-  a) SVM. 
-  b) Random Forest. 
-  c) Neural Network (very small becuase I only had around 300 observations). 
+  a) SVM <br />
+  b) Random Forest <br />
+  c) Neural Network (very small becuase I only had around 300 observations) <br />
   d) KNN. 
 3) In the case of predicting playstyle from physical characteristics, there wasn't enough data for models to perform well enough. To identify whether the models would perform better under a more straightforward setting that requires less data, I simplified the problem to binary classification (see paper for more information) and reran models including a logistic regression model
