@@ -13,7 +13,7 @@ Unsupervised Learning:
 3) Checked within groups to understand the extent to which the data contains the structure necessary for the project
 
 Supervised Learning:
-1) Fit a variety of models to predict player style based off of match statistics and physical characteristics (separately)
+1) Fit a variety of models to predict player style based off of match statistics and physical characteristics (separately) <br />
   a) SVM <br />
   b) Random Forest <br />
   c) Neural Network (very small becuase I only had around 300 observations) <br />
